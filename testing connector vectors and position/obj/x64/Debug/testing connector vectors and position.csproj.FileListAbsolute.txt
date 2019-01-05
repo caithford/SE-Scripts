@@ -1,0 +1,27 @@
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\testing connector vectors and position.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\testing connector vectors and position.pdb
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\MDKUtilities.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\HavokWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\VRage.OpenVRWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\VRage.Ansel.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.Desktop.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.Mathematics.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\Microsoft.CodeAnalysis.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\System.Collections.Immutable.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.DirectInput.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\DirectShowLib-2005.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\System.Reflection.Metadata.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.Desktop.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.Mathematics.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\Microsoft.CodeAnalysis.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\System.Collections.Immutable.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\SharpDX.DirectInput.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\bin\System.Reflection.Metadata.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\obj\x64\Debug\testing connector vectors and position.csprojResolveAssemblyReference.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\obj\x64\Debug\testing connector vectors and position.csproj.CoreCompileInputs.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\obj\x64\Debug\testing connector vectors and position.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\testing connector vectors and position\obj\x64\Debug\testing connector vectors and position.pdb
