@@ -1,0 +1,27 @@
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Block Rename.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Block Rename.pdb
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\MDKUtilities.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\HavokWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\VRage.OpenVRWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\VRage.Ansel.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.Desktop.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.Mathematics.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Microsoft.CodeAnalysis.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\System.Collections.Immutable.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.DirectInput.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\DirectShowLib-2005.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\System.Reflection.Metadata.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.Desktop.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.Mathematics.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Microsoft.CodeAnalysis.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\System.Collections.Immutable.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\SharpDX.DirectInput.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\bin\System.Reflection.Metadata.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\obj\x64\Debug\Block Rename.csprojResolveAssemblyReference.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\obj\x64\Debug\Block Rename.csproj.CoreCompileInputs.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\obj\x64\Debug\Block Rename.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Block Rename\obj\x64\Debug\Block Rename.pdb

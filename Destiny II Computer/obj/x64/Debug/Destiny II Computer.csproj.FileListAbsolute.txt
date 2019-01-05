@@ -1,0 +1,28 @@
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Destiny II Computer.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Destiny II Computer.pdb
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\MDKUtilities.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\HavokWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\VRage.Native.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\VRage.OpenVRWrapper.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\VRage.Ansel.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.Desktop.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.Mathematics.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Microsoft.CodeAnalysis.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\System.Collections.Immutable.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.DirectInput.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\DirectShowLib-2005.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\System.Reflection.Metadata.dll
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.Desktop.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.Mathematics.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Microsoft.CodeAnalysis.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\System.Collections.Immutable.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\SharpDX.DirectInput.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\bin\System.Reflection.Metadata.xml
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\obj\x64\Debug\Destiny II Computer.csprojResolveAssemblyReference.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\obj\x64\Debug\Destiny II Computer.csproj.CoreCompileInputs.cache
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\obj\x64\Debug\Destiny II Computer.exe
+D:\Users\Bob\Dropbox\Personal\coding\SE\SE Scripts\Destiny II Computer\obj\x64\Debug\Destiny II Computer.pdb
